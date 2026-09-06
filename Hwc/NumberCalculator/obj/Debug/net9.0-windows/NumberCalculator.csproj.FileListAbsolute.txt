@@ -1,0 +1,14 @@
+C:\Users\Dream\Desktop\Hwc\NumberCalculator\bin\Debug\net9.0-windows\NumberCalculator.exe
+C:\Users\Dream\Desktop\Hwc\NumberCalculator\bin\Debug\net9.0-windows\NumberCalculator.deps.json
+C:\Users\Dream\Desktop\Hwc\NumberCalculator\bin\Debug\net9.0-windows\NumberCalculator.runtimeconfig.json
+C:\Users\Dream\Desktop\Hwc\NumberCalculator\bin\Debug\net9.0-windows\NumberCalculator.dll
+C:\Users\Dream\Desktop\Hwc\NumberCalculator\bin\Debug\net9.0-windows\NumberCalculator.pdb
+C:\Users\Dream\Desktop\Hwc\NumberCalculator\obj\Debug\net9.0-windows\NumberCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dream\Desktop\Hwc\NumberCalculator\obj\Debug\net9.0-windows\NumberCalculator.AssemblyInfoInputs.cache
+C:\Users\Dream\Desktop\Hwc\NumberCalculator\obj\Debug\net9.0-windows\NumberCalculator.AssemblyInfo.cs
+C:\Users\Dream\Desktop\Hwc\NumberCalculator\obj\Debug\net9.0-windows\NumberCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Dream\Desktop\Hwc\NumberCalculator\obj\Debug\net9.0-windows\NumberCalculator.dll
+C:\Users\Dream\Desktop\Hwc\NumberCalculator\obj\Debug\net9.0-windows\refint\NumberCalculator.dll
+C:\Users\Dream\Desktop\Hwc\NumberCalculator\obj\Debug\net9.0-windows\NumberCalculator.pdb
+C:\Users\Dream\Desktop\Hwc\NumberCalculator\obj\Debug\net9.0-windows\NumberCalculator.genruntimeconfig.cache
+C:\Users\Dream\Desktop\Hwc\NumberCalculator\obj\Debug\net9.0-windows\ref\NumberCalculator.dll
