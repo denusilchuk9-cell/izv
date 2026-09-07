@@ -1,0 +1,14 @@
+C:\Users\Dream\Desktop\UtilityCalculator\bin\Debug\net8.0-windows\UtilityCalculator.exe
+C:\Users\Dream\Desktop\UtilityCalculator\bin\Debug\net8.0-windows\UtilityCalculator.deps.json
+C:\Users\Dream\Desktop\UtilityCalculator\bin\Debug\net8.0-windows\UtilityCalculator.runtimeconfig.json
+C:\Users\Dream\Desktop\UtilityCalculator\bin\Debug\net8.0-windows\UtilityCalculator.dll
+C:\Users\Dream\Desktop\UtilityCalculator\bin\Debug\net8.0-windows\UtilityCalculator.pdb
+C:\Users\Dream\Desktop\UtilityCalculator\obj\Debug\net8.0-windows\UtilityCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dream\Desktop\UtilityCalculator\obj\Debug\net8.0-windows\UtilityCalculator.AssemblyInfoInputs.cache
+C:\Users\Dream\Desktop\UtilityCalculator\obj\Debug\net8.0-windows\UtilityCalculator.AssemblyInfo.cs
+C:\Users\Dream\Desktop\UtilityCalculator\obj\Debug\net8.0-windows\UtilityCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Dream\Desktop\UtilityCalculator\obj\Debug\net8.0-windows\UtilityCalculator.dll
+C:\Users\Dream\Desktop\UtilityCalculator\obj\Debug\net8.0-windows\refint\UtilityCalculator.dll
+C:\Users\Dream\Desktop\UtilityCalculator\obj\Debug\net8.0-windows\UtilityCalculator.pdb
+C:\Users\Dream\Desktop\UtilityCalculator\obj\Debug\net8.0-windows\UtilityCalculator.genruntimeconfig.cache
+C:\Users\Dream\Desktop\UtilityCalculator\obj\Debug\net8.0-windows\ref\UtilityCalculator.dll
