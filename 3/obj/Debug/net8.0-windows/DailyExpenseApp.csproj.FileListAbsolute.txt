@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\3\bin\Debug\net8.0-windows\DailyExpenseApp.exe
+C:\Users\Student\Desktop\3\bin\Debug\net8.0-windows\DailyExpenseApp.deps.json
+C:\Users\Student\Desktop\3\bin\Debug\net8.0-windows\DailyExpenseApp.runtimeconfig.json
+C:\Users\Student\Desktop\3\bin\Debug\net8.0-windows\DailyExpenseApp.dll
+C:\Users\Student\Desktop\3\bin\Debug\net8.0-windows\DailyExpenseApp.pdb
+C:\Users\Student\Desktop\3\obj\Debug\net8.0-windows\DailyExpenseApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\3\obj\Debug\net8.0-windows\DailyExpenseApp.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\3\obj\Debug\net8.0-windows\DailyExpenseApp.AssemblyInfo.cs
+C:\Users\Student\Desktop\3\obj\Debug\net8.0-windows\DailyExpenseApp.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\3\obj\Debug\net8.0-windows\DailyExpenseApp.dll
+C:\Users\Student\Desktop\3\obj\Debug\net8.0-windows\refint\DailyExpenseApp.dll
+C:\Users\Student\Desktop\3\obj\Debug\net8.0-windows\DailyExpenseApp.pdb
+C:\Users\Student\Desktop\3\obj\Debug\net8.0-windows\DailyExpenseApp.genruntimeconfig.cache
+C:\Users\Student\Desktop\3\obj\Debug\net8.0-windows\ref\DailyExpenseApp.dll
