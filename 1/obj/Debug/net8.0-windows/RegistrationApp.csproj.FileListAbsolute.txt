@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\1\bin\Debug\net8.0-windows\RegistrationApp.exe
+C:\Users\Student\Desktop\1\bin\Debug\net8.0-windows\RegistrationApp.deps.json
+C:\Users\Student\Desktop\1\bin\Debug\net8.0-windows\RegistrationApp.runtimeconfig.json
+C:\Users\Student\Desktop\1\bin\Debug\net8.0-windows\RegistrationApp.dll
+C:\Users\Student\Desktop\1\bin\Debug\net8.0-windows\RegistrationApp.pdb
+C:\Users\Student\Desktop\1\obj\Debug\net8.0-windows\RegistrationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\1\obj\Debug\net8.0-windows\RegistrationApp.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\1\obj\Debug\net8.0-windows\RegistrationApp.AssemblyInfo.cs
+C:\Users\Student\Desktop\1\obj\Debug\net8.0-windows\RegistrationApp.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\1\obj\Debug\net8.0-windows\RegistrationApp.dll
+C:\Users\Student\Desktop\1\obj\Debug\net8.0-windows\refint\RegistrationApp.dll
+C:\Users\Student\Desktop\1\obj\Debug\net8.0-windows\RegistrationApp.pdb
+C:\Users\Student\Desktop\1\obj\Debug\net8.0-windows\RegistrationApp.genruntimeconfig.cache
+C:\Users\Student\Desktop\1\obj\Debug\net8.0-windows\ref\RegistrationApp.dll
