@@ -1,0 +1,14 @@
+C:\Users\Dream\Desktop\2\bin\Debug\net8.0-windows\TariffAdvisor.exe
+C:\Users\Dream\Desktop\2\bin\Debug\net8.0-windows\TariffAdvisor.deps.json
+C:\Users\Dream\Desktop\2\bin\Debug\net8.0-windows\TariffAdvisor.runtimeconfig.json
+C:\Users\Dream\Desktop\2\bin\Debug\net8.0-windows\TariffAdvisor.dll
+C:\Users\Dream\Desktop\2\bin\Debug\net8.0-windows\TariffAdvisor.pdb
+C:\Users\Dream\Desktop\2\obj\Debug\net8.0-windows\Project_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dream\Desktop\2\obj\Debug\net8.0-windows\Project_2.AssemblyInfoInputs.cache
+C:\Users\Dream\Desktop\2\obj\Debug\net8.0-windows\Project_2.AssemblyInfo.cs
+C:\Users\Dream\Desktop\2\obj\Debug\net8.0-windows\Project_2.csproj.CoreCompileInputs.cache
+C:\Users\Dream\Desktop\2\obj\Debug\net8.0-windows\TariffAdvisor.dll
+C:\Users\Dream\Desktop\2\obj\Debug\net8.0-windows\refint\TariffAdvisor.dll
+C:\Users\Dream\Desktop\2\obj\Debug\net8.0-windows\TariffAdvisor.pdb
+C:\Users\Dream\Desktop\2\obj\Debug\net8.0-windows\Project_2.genruntimeconfig.cache
+C:\Users\Dream\Desktop\2\obj\Debug\net8.0-windows\ref\TariffAdvisor.dll
