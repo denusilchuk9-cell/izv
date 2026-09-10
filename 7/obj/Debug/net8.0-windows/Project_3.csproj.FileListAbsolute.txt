@@ -1,0 +1,14 @@
+C:\Users\Dream\Desktop\7\bin\Debug\net8.0-windows\SeatMap.exe
+C:\Users\Dream\Desktop\7\bin\Debug\net8.0-windows\SeatMap.deps.json
+C:\Users\Dream\Desktop\7\bin\Debug\net8.0-windows\SeatMap.runtimeconfig.json
+C:\Users\Dream\Desktop\7\bin\Debug\net8.0-windows\SeatMap.dll
+C:\Users\Dream\Desktop\7\bin\Debug\net8.0-windows\SeatMap.pdb
+C:\Users\Dream\Desktop\7\obj\Debug\net8.0-windows\Project_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dream\Desktop\7\obj\Debug\net8.0-windows\Project_3.AssemblyInfoInputs.cache
+C:\Users\Dream\Desktop\7\obj\Debug\net8.0-windows\Project_3.AssemblyInfo.cs
+C:\Users\Dream\Desktop\7\obj\Debug\net8.0-windows\Project_3.csproj.CoreCompileInputs.cache
+C:\Users\Dream\Desktop\7\obj\Debug\net8.0-windows\SeatMap.dll
+C:\Users\Dream\Desktop\7\obj\Debug\net8.0-windows\refint\SeatMap.dll
+C:\Users\Dream\Desktop\7\obj\Debug\net8.0-windows\SeatMap.pdb
+C:\Users\Dream\Desktop\7\obj\Debug\net8.0-windows\Project_3.genruntimeconfig.cache
+C:\Users\Dream\Desktop\7\obj\Debug\net8.0-windows\ref\SeatMap.dll
