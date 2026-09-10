@@ -1,0 +1,14 @@
+C:\Users\Dream\Desktop\1\bin\Debug\net8.0-windows\CO2Calculator.exe
+C:\Users\Dream\Desktop\1\bin\Debug\net8.0-windows\CO2Calculator.deps.json
+C:\Users\Dream\Desktop\1\bin\Debug\net8.0-windows\CO2Calculator.runtimeconfig.json
+C:\Users\Dream\Desktop\1\bin\Debug\net8.0-windows\CO2Calculator.dll
+C:\Users\Dream\Desktop\1\bin\Debug\net8.0-windows\CO2Calculator.pdb
+C:\Users\Dream\Desktop\1\obj\Debug\net8.0-windows\Project_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dream\Desktop\1\obj\Debug\net8.0-windows\Project_1.AssemblyInfoInputs.cache
+C:\Users\Dream\Desktop\1\obj\Debug\net8.0-windows\Project_1.AssemblyInfo.cs
+C:\Users\Dream\Desktop\1\obj\Debug\net8.0-windows\Project_1.csproj.CoreCompileInputs.cache
+C:\Users\Dream\Desktop\1\obj\Debug\net8.0-windows\CO2Calculator.dll
+C:\Users\Dream\Desktop\1\obj\Debug\net8.0-windows\refint\CO2Calculator.dll
+C:\Users\Dream\Desktop\1\obj\Debug\net8.0-windows\CO2Calculator.pdb
+C:\Users\Dream\Desktop\1\obj\Debug\net8.0-windows\Project_1.genruntimeconfig.cache
+C:\Users\Dream\Desktop\1\obj\Debug\net8.0-windows\ref\CO2Calculator.dll
